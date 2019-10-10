@@ -1,0 +1,37 @@
+These will be the most important functions for the assessment. 
+you should absolutely understand how to use all of them.
+
+index
+match
+vlookup
+ifs
+sumifs
+left
+mid
+right
+trim
+find
+search
+len
+edate
+day
+month
+year
+today
+now
+choose
+iferror
+ifna
+
+I will put in a smattering of the other functions from the list I gave you as well. 
+
+In terms of other Excel capabilities, you should expect to 
+calculate percentage changes and 
+projections from data like in the Fortune 500 and Amazon examples. 
+
+You should also understand how to do the following in Excel:
+Pivot Tables
+Sorting
+Filters
+line charts
+bar charts
